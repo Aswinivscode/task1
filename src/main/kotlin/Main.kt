@@ -9,4 +9,3 @@ fun main() {
      val sum = sumOfDigits(num)
      println("Sum of the digits : $sum")
     }
-}
